@@ -1,8 +1,9 @@
 # 🌐 Global Currency Converter
 
-<div align = center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5OXV4azZrdDMzZmRlNXVqbDgyb3h1MDV4eTE3dDZ6ejhiMjcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ybx4sx4HE0qQgSI/giphy.gif"
-</div>
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxseTJpMGRtNnhxMDF4djI0YmdwazY3dDZyZjJxczVlc21vcmJqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YL4eHURj4JyE15UdwA/giphy.gif" alt="Centered GIF">
+</p>
+
 
 
 A modern, real-time currency converter built with React and TypeScript. Convert between 20+ major world currencies with live exchange rates.
