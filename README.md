@@ -1,13 +1,13 @@
 # 🌐 Global Currency Converter
 
-<div style="text-align: center;">
+<div align = center;">
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw5OXV4azZrdDMzZmRlNXVqbDgyb3h1MDV4eTE3dDZ6ejhiMjcwMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26ybx4sx4HE0qQgSI/giphy.gif"
 </div>
 
 
 A modern, real-time currency converter built with React and TypeScript. Convert between 20+ major world currencies with live exchange rates.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://your-deployment-url.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://stellar-empanada-9ce859.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/kumaryash-24)
 
 ## ✨ Features
