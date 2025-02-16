@@ -3,7 +3,7 @@
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmxseTJpMGRtNnhxMDF4djI0YmdwazY3dDZyZjJxczVlc21vcmJqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YL4eHURj4JyE15UdwA/giphy.gif" alt="Centered GIF">
 </p>
-
+   
 
     
 A modern, real-time currency converter built with React and TypeScript. Convert between 20+ major world currencies  with live exchange rates.
