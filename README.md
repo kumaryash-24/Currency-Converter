@@ -5,7 +5,7 @@
 </p>
 
 
-   
+    
 A modern, real-time currency converter built with React and TypeScript. Convert between 20+ major world currencies  with live exchange rates.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-blue?style=for-the-badge)](https://stellar-empanada-9ce859.netlify.app)
