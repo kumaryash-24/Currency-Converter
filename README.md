@@ -95,3 +95,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Exchange rates provided by [ExchangeRate-API](https://www.exchangerate-api.com/)
 - Icons by [Lucide React](https://lucide.dev)
 - Background images from [Unsplash](https://unsplash.com)
+
+
+Updated on 2026-10-26.
